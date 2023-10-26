@@ -16,7 +16,7 @@
 
 - 💻 &nbsp; Python | Javascript | Java Profesional
 - 🌐 &nbsp; Android | HTML | CSS | | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase | DJango
+- 🛢 &nbsp; MySQL | Firebase | Mongo DB | DJango
 - 🔧 &nbsp; app inventor2 | PyCharm | Visual Studio code | Git | Java Netbeans
 - 🖥 &nbsp; Adobe Xd| Photoshop | Canva 
 </br>
