@@ -4,15 +4,33 @@
 ### 📲 Actualmente realizo pasantía en Facultad de Educación como programadora de web y aplicaciones android para el Proyecto de Investigación de Gamificación de la ortografía.
 
 ### 🛒 Estoy aprendiendo desarrollo de ecomerce en front y backend en diferentes lenguajes, en materias de la tecnicatura de la UTN San Rafael. 
-### 💌 Mis redeas sociales para que me puedas contactar son:
+### 💌 Mis redes sociales para que me puedas contactar:
 
 ### 
-## Conocimientos adquiridos
+<h3>Conocimientos adquiridos<h3>
 ### Lenguajes de programación
 <a href="https://postimg.cc/ppWppbvv" target="_blank"><img src="https://i.postimg.cc/ppWppbvv/javagif.gif" alt="javagif"/></a>
 <a href="https://postimg.cc/kBVGwN5T" target="_blank"><img src="https://i.postimg.cc/kBVGwN5T/Phytongif.gif" alt="Phytongif"/></a>
 <a href="https://postimg.cc/9zCw6qrJ" target="_blank"><img src="https://i.postimg.cc/9zCw6qrJ/jsgif.gif" alt="jsgif"/></a>
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Python | Javascript | Java Profesional|   
+- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
+- 🛢 &nbsp; MySQL | Firebase | DJango
+- 🔧 &nbsp; Android | PyCharm | Visual Studio code | Git
+- 🖥 &nbsp; Adobe Xd| Photoshop | 
 ## Base de datos
 <a href="https://postimg.cc/RJ6gP2j9" target="_blank"><img src="https://i.postimg.cc/RJ6gP2j9/logo-mongo-db.gif" alt="logo-mongo-db"/></a>
 ## Estadística de Trabajo marco scrum 
 [![programacioncarolina1980stats](https://github-readme-stats.vercel.app/api?username=programacioncarolina1980)](https://github.com/programacioncarolina1980/github-readme-stats)
+
+<br>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=devSouvik&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
+
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=programacioncarolina1980&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/programacioncarolina1980/github-readme-stats)
+
+
+<h3> 🤝🏻 Connect with Me </h3>
