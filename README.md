@@ -10,8 +10,8 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100091659614709&mibextid=ZbWKwL) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/carolina-disenos) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/carolina-bel%C3%A9n-delgado-558843219?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)
-# 💻 Tech Stack:
 
+# 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -28,19 +28,18 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
-<h3> Lenguajes de programación <h3>
+# <h3> Lenguajes de programación y base de datos más utilizados en proyectos <h3>
 <a href="https://postimg.cc/ppWppbvv" target="_blank"><img src="https://i.postimg.cc/ppWppbvv/javagif.gif" alt="javagif"/></a>
 <a href="https://postimg.cc/kBVGwN5T" target="_blank"><img src="https://i.postimg.cc/kBVGwN5T/Phytongif.gif" alt="Phytongif"/></a>
 <a href="https://postimg.cc/9zCw6qrJ" target="_blank"><img src="https://i.postimg.cc/9zCw6qrJ/jsgif.gif" alt="jsgif"/></a>
-</br>
 <a href="https://postimg.cc/RJ6gP2j9" target="_blank"><img src="https://i.postimg.cc/RJ6gP2j9/logo-mongo-db.gif" alt="logo-mongo-db"/></a>
-
+</br>
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=programacioncarolina1980&theme=dracula&hide_border=false)<br/>
 
 
-<h3> Estadística de Trabajo marco scrum <h3>
+# <h3> Estadística de Trabajo marco scrum <h3>
 
 [![programacioncarolina1980stats](https://github-readme-stats.vercel.app/api?username=programacioncarolina1980)](https://github.com/programacioncarolina1980/github-readme-stats)
 
