@@ -19,14 +19,10 @@
 - 🛢 &nbsp; MySQL | Firebase | DJango
 - 🔧 &nbsp; app inventor2 | PyCharm | Visual Studio code | Git | Java Netbeans
 - 🖥 &nbsp; Adobe Xd| Photoshop | Canva 
-
+</br>
 <a href="https://postimg.cc/RJ6gP2j9" target="_blank"><img src="https://i.postimg.cc/RJ6gP2j9/logo-mongo-db.gif" alt="logo-mongo-db"/></a>
 ## Estadística de Trabajo marco scrum 
 [![programacioncarolina1980stats](https://github-readme-stats.vercel.app/api?username=programacioncarolina1980)](https://github.com/programacioncarolina1980/github-readme-stats)
-
-<br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=programacioncarolina1980)&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="programacioncarolina1980)'s Github Stats">
 
 </br>
 
