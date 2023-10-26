@@ -14,12 +14,12 @@
 <a href="https://postimg.cc/9zCw6qrJ" target="_blank"><img src="https://i.postimg.cc/9zCw6qrJ/jsgif.gif" alt="jsgif"/></a>
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Javascript | Java Profesional|   
-- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
+- 💻 &nbsp; Python | Javascript | Java Profesional
+- 🌐 &nbsp; Android | HTML | CSS | | Bootstrap 
 - 🛢 &nbsp; MySQL | Firebase | DJango
-- 🔧 &nbsp; Android | PyCharm | Visual Studio code | Git
-- 🖥 &nbsp; Adobe Xd| Photoshop | 
-## Base de datos
+- 🔧 &nbsp; app inventor2 | PyCharm | Visual Studio code | Git | Java Netbeans
+- 🖥 &nbsp; Adobe Xd| Photoshop | Canva 
+
 <a href="https://postimg.cc/RJ6gP2j9" target="_blank"><img src="https://i.postimg.cc/RJ6gP2j9/logo-mongo-db.gif" alt="logo-mongo-db"/></a>
 ## Estadística de Trabajo marco scrum 
 [![programacioncarolina1980stats](https://github-readme-stats.vercel.app/api?username=programacioncarolina1980)](https://github.com/programacioncarolina1980/github-readme-stats)
