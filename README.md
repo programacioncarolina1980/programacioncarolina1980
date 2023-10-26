@@ -1,11 +1,11 @@
 ## Hola Soy Carolina Belén Delgado! Bienvenido a mi repositorio personal! 👋
 [![delgado.gif](https://i.postimg.cc/pTJXQvFv/delgado.gif)](https://postimg.cc/tZ7jyLkv)
 ### 💻 Soy estudiante último año en Tecnicatura Superior en Programación- UTN San Rafael Mendoza
-### 📲 Actualmente realizo pasantía en Facultad de Educación como programadora de web y aplicaciones android para el Proyecto de Investigación de Gamificación de la ortografía.
+### 📲 Actualmente realizo pasantía en Facultad de Educación como programadora web y aplicaciones android para el Proyecto de Investigación de Gamificación de la ortografía.
 
 ### 🛒 Estoy aprendiendo desarrollo de ecomerce en front y backend en diferentes lenguajes, en materias de la tecnicatura de la UTN San Rafael. 
 ### 💌 Mis redes sociales para que me puedas contactar:
-
+<h3> 🤝🏻 Connect with Me </h3>
 ### 
 <h3>Conocimientos adquiridos<h3>
 ### Lenguajes de programación
@@ -32,5 +32,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=programacioncarolina1980&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/programacioncarolina1980/github-readme-stats)
 
-
-<h3> 🤝🏻 Connect with Me </h3>
