@@ -16,21 +16,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=programacioncarolina1980&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=programacióncarolina1980&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=programacióncarolina1980&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-
-
-
-
-
-
-
-<h3> 🤝🏻 Connect with Me </h3>
-<a href="          "  <a
-<h3> Conocimientos adquiridos <h3>
-<h3> Lenguajes de programación <h3></h3>
+<h3> Lenguajes de programación <h3>
 <a href="https://postimg.cc/ppWppbvv" target="_blank"><img src="https://i.postimg.cc/ppWppbvv/javagif.gif" alt="javagif"/></a>
 <a href="https://postimg.cc/kBVGwN5T" target="_blank"><img src="https://i.postimg.cc/kBVGwN5T/Phytongif.gif" alt="Phytongif"/></a>
 <a href="https://postimg.cc/9zCw6qrJ" target="_blank"><img src="https://i.postimg.cc/9zCw6qrJ/jsgif.gif" alt="jsgif"/></a>
