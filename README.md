@@ -1,6 +1,5 @@
-<a href='https://postimg.cc/tZ7jyLkv' target='_blank'><img src='https://i.postimg.cc/tZ7jyLkv/delgado.gif' border='0' alt='delgado'/></a>
 ## Hola Soy Carolina Belén Delgado! Bienvenido a mi repositorio personal! 👋
-
+[![delgado.gif](https://i.postimg.cc/pTJXQvFv/delgado.gif)](https://postimg.cc/tZ7jyLkv)
 ### 💻 Soy estudiante último año en Tecnicatura Superior en Programación- UTN San Rafael Mendoza
 ## 📲 Actualmente realizo pasantía en Facultad de Educación como programadora de web y aplicaciones android para el Proyecto de Investigación de Gamificación de la ortografía.
 
