@@ -3,7 +3,7 @@
 ### 💻 Finalicé el último año en Tecnicatura Superior en Programación- UTN San Rafael Mendoza
 ### 📲 Finalicé pasantía en Facultad de Educación como programadora web y aplicaciones android para el Proyecto de Investigación de Gamificación de la ortografía.
 <a href="https://postimg.cc/BjFnfRpc" target="_blank"><img src="https://i.postimg.cc/BjFnfRpc/EXOPLANETAS.gif" alt="EXOPLANETAS"/></a>
-### 🛒 Estoy aprendiendo desarrollo de ecomerce en front y backend en diferentes lenguajes, en materias de la tecnicatura de la UTN San Rafael. 
+### 🛒  Desarrollé ecomerce Ecosomier Mendoza en fronnt y backend junto a nuestro equipo Utenianos, como proyecto integrador en materias de la tecnicatura de la UTN San Rafael. 
 ### 💌 Mis redes sociales para que me puedas contactar:
 
 
