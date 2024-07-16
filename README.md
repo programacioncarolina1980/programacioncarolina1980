@@ -4,6 +4,7 @@
 ### 📲 Finalicé pasantía en Facultad de Educación como programadora web y aplicaciones android para el Proyecto de Investigación de Gamificación de la ortografía.
 <a href="https://postimg.cc/BjFnfRpc" target="_blank"><img src="https://i.postimg.cc/BjFnfRpc/EXOPLANETAS.gif" alt="EXOPLANETAS"/></a>
 ### 🛒  Desarrollé ecomerce Ecosomier Mendoza en frontend y backend junto a nuestro equipo Utenianos, como proyecto integrador en materias de la tecnicatura de la UTN San Rafael. 
+### Actualnente realizo curso especializacion Backend en Alura Latam y finalicé programa One Oracle education.
 
 ### 💌 Mis redes sociales para que me puedas contactar:
 
