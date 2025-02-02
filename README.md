@@ -40,9 +40,9 @@ Actualmente soy docente de grado en primaria y mis alumnos de primer ciclo logra
 # <h3> Lenguajes de programación y base de datos más utilizados en proyectos <h3>
 <a href="https://postimg.cc/ppWppbvv" target="_blank"><img src="https://i.postimg.cc/ppWppbvv/javagif.gif" alt="javagif"/></a>
 <a href="https://postimg.cc/kBVGwN5T" target="_blank"><img src="https://i.postimg.cc/kBVGwN5T/Phytongif.gif" alt="Phytongif"/></a>
-<a href="https://postimg.cc/9zCw6qrJ" target="_blank"><img src="https://i.postimg.cc/9zCw6qrJ/jsgif.gif" alt="jsgif"/></a>
-<a href="https://postimg.cc/RJ6gP2j9" target="_blank"><img src="https://i.postimg.cc/RJ6gP2j9/logo-mongo-db.gif" alt="logo-mongo-db"/></a>
+<a href='https://postimg.cc/YvFn6v62' target='_blank'><img src='https://i.postimg.cc/YvFn6v62/jsgif.gif' border='0' alt='jsgif'/></a>
 </br>
+<a href="https://postimg.cc/RJ6gP2j9" target="_blank"><img src="https://i.postimg.cc/RJ6gP2j9/logo-mongo-db.gif" alt="logo-mongo-db"/></a>
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=programacioncarolina1980&theme=dracula&hide_border=false)<br/>
