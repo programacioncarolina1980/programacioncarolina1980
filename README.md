@@ -9,8 +9,9 @@ Insignias logradas en challenge
 <a href='https://postimg.cc/G8RtmmVZ' target='_blank'><img src='https://i.postimg.cc/G8RtmmVZ/Badge-Spring.png' border='0' alt='Badge-Spring'/></a>
 <a href='https://postimg.cc/mzSDzGGh' target='_blank'><img src='https://i.postimg.cc/mzSDzGGh/badge-literalura.png' border='0' alt='badge-literalura'/></a>
 ### En 2024 Realicé muestra de Ciencias junto a equipo docente de escuela primaria de tecnología y robótica, bajo el proyecto "La exploración del Universo con realidad aumentada". 
-[![Captura-de-pantalla-2025-02-02-103913.png](https://i.postimg.cc/ncc1xmvn/Captura-de-pantalla-2025-02-02-103913.png)](https://postimg.cc/5jTzq67r)
-Actualmente soy docente de primaria y mis alumnos de primer ciclo lograron programar en Scatch, realizando trabajos en relación al sistema solar, movimientos de rotación y traslación de la tierra, fases de la luna, estaciones del año y constelaciones.Los alumnos exploraron y utilizaron sensores de sonido y movimiento. Para la planificación del ABP se utilizó IA y se trabajó en equipo con docentes de Tecnología, Robótica y laboratorio.
+
+<a href="https://postimg.cc/5jTzq67r" target="_blank"><img src="https://i.postimg.cc/5jTzq67r/Captura-de-pantalla-2025-02-02-103913.png" alt="Captura-de-pantalla-2025-02-02-103913"/></a>
+Actualmente soy docente de grado en primaria y mis alumnos de primer ciclo lograron programar en Scratch, realizaron trabajos en relación al sistema solar, movimientos de rotación y traslación de la tierra, fases de la luna, estaciones del año y constelaciones.Los alumnos exploraron y utilizaron sensores de sonido y movimiento. Para la planificación del ABP se utilizó IA y se trabajó en equipo con docentes de Tecnología, Robótica y laboratorio.
 [![Captura-de-pantalla-2025-02-02-104124.png](https://i.postimg.cc/qMbxv7Ly/Captura-de-pantalla-2025-02-02-104124.png)](https://postimg.cc/4mc98sjx)
 ### 💌 Mis redes sociales para que me puedas contactar:
 
