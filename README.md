@@ -1,4 +1,4 @@
-[![delgado.gif](https://i.postimg.cc/pTJXQvFv/delgado.gif)](https://postimg.cc/tZ7jyLkv)
+[![delgado.gif](https://i.postimg.cc/5N8y0KbJ/delgado.gif)](https://postimg.cc/0b2PXfzX)
 ## Hola Soy Carolina Belén Delgado! Bienvenido a mi repositorio personal! 👋
 ### 💻 Finalicé el último año en Tecnicatura Universitaria en Programación- UTN San Rafael Mendoza
 ### 📲 Finalicé pasantía en Facultad de Educación como programadora web y aplicaciones android para el Proyecto de Investigación de Gamificación de la ortografía.
