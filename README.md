@@ -9,7 +9,8 @@ Insignias logradas en challenge
 <a href='https://postimg.cc/G8RtmmVZ' target='_blank'><img src='https://i.postimg.cc/G8RtmmVZ/Badge-Spring.png' border='0' alt='Badge-Spring'/></a>
 <a href='https://postimg.cc/mzSDzGGh' target='_blank'><img src='https://i.postimg.cc/mzSDzGGh/badge-literalura.png' border='0' alt='badge-literalura'/></a>
 ### En 2024 Realicé muestra de Ciencias junto a equipo docente de escuela primaria de tecnología y robótica, bajo el proyecto "La exploración del Universo con realidad aumentada". 
-En la que alumnos de primer nivel lograron programar en Scatch sus trabajos en relación al sistema solar, movimientos de rotación y traslación de la tierra, fases de la luna, estaciones del año. Con la utilización de sensores de sonido y movimiento. Para la planificación del ABP se utilizó IA.
+[![Captura-de-pantalla-2025-02-02-103913.png](https://i.postimg.cc/ncc1xmvn/Captura-de-pantalla-2025-02-02-103913.png)](https://postimg.cc/5jTzq67r)
+En la que alumnos de primer ciclo lograron programar en Scatch sus trabajos en relación al sistema solar, movimientos de rotación y traslación de la tierra, fases de la luna, estaciones del año. Con la utilización de sensores de sonido y movimiento. Para la planificación del ABP se utilizó IA.
 [![Captura-de-pantalla-2025-02-02-104124.png](https://i.postimg.cc/qMbxv7Ly/Captura-de-pantalla-2025-02-02-104124.png)](https://postimg.cc/4mc98sjx)
 ### 💌 Mis redes sociales para que me puedas contactar:
 
