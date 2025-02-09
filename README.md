@@ -8,6 +8,8 @@
 Insignias logradas en challenge 
 <a href='https://postimg.cc/G8RtmmVZ' target='_blank'><img src='https://i.postimg.cc/G8RtmmVZ/Badge-Spring.png' border='0' alt='Badge-Spring'/></a>
 <a href='https://postimg.cc/mzSDzGGh' target='_blank'><img src='https://i.postimg.cc/mzSDzGGh/badge-literalura.png' border='0' alt='badge-literalura'/></a>
+### Participación en Jornadas de Investigación XVIII en el proyecto de: "Aprendizaje de la ortografía una propuesta innovadora en el marco de las pedagogías emergentes"
+[![banner-jornada-de-investigaci-n-Delgado-Carolina.jpg](https://i.postimg.cc/PNG8JMnQ/banner-jornada-de-investigaci-n-Delgado-Carolina.jpg)](https://postimg.cc/jnXjkP5D)
 ### En 2024 Realicé muestra de Ciencias junto a equipo docente de escuela primaria de tecnología y robótica, bajo el proyecto "La exploración del Universo con realidad aumentada". 
 
 <a href="https://postimg.cc/5jTzq67r" target="_blank"><img src="https://i.postimg.cc/5jTzq67r/Captura-de-pantalla-2025-02-02-103913.png" alt="Captura-de-pantalla-2025-02-02-103913"/></a>
