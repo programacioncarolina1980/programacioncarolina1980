@@ -11,9 +11,11 @@ Insignias logradas en challenge
 ### Participación en Jornadas de Investigación XVIII en el proyecto de: "Aprendizaje de la ortografía una propuesta innovadora en el marco de las pedagogías emergentes"
 [![banner-jornada-de-investigaci-n-Delgado-Carolina.jpg](https://i.postimg.cc/PNG8JMnQ/banner-jornada-de-investigaci-n-Delgado-Carolina.jpg)](https://postimg.cc/jnXjkP5D)
 ### En 2024 Realicé muestra de Ciencias junto a equipo docente de escuela primaria de tecnología y robótica, bajo el proyecto "La exploración del Universo con realidad aumentada". 
-
 <a href="https://postimg.cc/5jTzq67r" target="_blank"><img src="https://i.postimg.cc/5jTzq67r/Captura-de-pantalla-2025-02-02-103913.png" alt="Captura-de-pantalla-2025-02-02-103913"/></a>
+
 Actualmente soy docente de grado en primaria y mis alumnos de primer ciclo lograron programar en Scratch, realizaron trabajos en relación al sistema solar, movimientos de rotación y traslación de la tierra, fases de la luna, estaciones del año y constelaciones.Los alumnos exploraron y utilizaron sensores de sonido y movimiento. Para la planificación del ABP se utilizó IA y se trabajó en equipo con docentes de Tecnología, Robótica y laboratorio.
+[![Whats-App-Image-2025-03-02-at-8-09-04-PM.jpg](https://i.postimg.cc/447BgT7V/Whats-App-Image-2025-03-02-at-8-09-04-PM.jpg)](https://postimg.cc/xqQKvhP1) Programación de sensor de sonido
+
 [![Captura-de-pantalla-2025-02-02-104124.png](https://i.postimg.cc/qMbxv7Ly/Captura-de-pantalla-2025-02-02-104124.png)](https://postimg.cc/4mc98sjx)
 ### 💌 Mis redes sociales para que me puedas contactar:
 
